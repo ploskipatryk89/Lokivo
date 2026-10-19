@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lokivo.Api/Lokivo.Api.csproj" />
+  <Project Path="Lokivo.Application/Lokivo.Application.csproj" />
+  <Project Path="Lokivo.Domain/Lokivo.Domain.csproj" />
+  <Project Path="Lokivo.Infrastructure/Lokivo.Infrastructure.csproj" />
+</Solution>

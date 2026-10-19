@@ -1,0 +1,6 @@
+@Lokivo.Api_HostAddress = http://localhost:5141
+
+GET {{Lokivo.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
